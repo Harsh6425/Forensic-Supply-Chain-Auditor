@@ -1,0 +1,5 @@
+{
+  "name": "Forensic Supply Chain Auditor",
+  "description": "An autonomous AI investigator specializing in cross-modal reasoning to detect supply chain shrinkage, theft rings, and operational discrepancies using Gemini 1.5 Pro.",
+  "requestFramePermissions": []
+}
